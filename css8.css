@@ -1,0 +1,17 @@
+header{margin: 0px; padding:0px; display: flex;}
+.logo{height: 100px; width: 100px; background-image: url('logo.png'); background-size: contain; background-repeat: no-repeat; display: flex;}
+form{display: flex; flex-grow: 2;}
+.ak{display: flex;}
+.ab{height: 20%; width: 20%;}
+.ac{height: 20%; width: 20%;}
+.ah{height: 20%; width: 20%;}
+.al{height: 20%; width: 20%;}
+
+
+.bm{display: flex; margin-top: 2em;}
+.bd{height: 20%; width: 20%;}
+.bx{height: 20%; width: 20%;}
+.bj{height: 20%; width: 20%;}
+.bk{height: 20%; width: 20%;}
+
+
